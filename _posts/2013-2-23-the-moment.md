@@ -1,0 +1,34 @@
+---
+layout: default
+title: The Moment
+---
+
+Thanks to an old friend I had the pleasure of reading some Johannes Climacus this past week and I was struck by his essay *On Timelessness*. Here is an excerpt that I transcribed before returning the book:
+
+>At the time of writing, time travel is relegated to whatever contrivances can be safely applied in fiction. This fact liberates the philosophical mind from the costly consideration of several taxing paradoxes. Modern division of labor shall deliver that set of problems to the bar rooms where they can be presented with the appropriate forgetfulness. For what is a time-travel conjecture but an attempt to slip the noose of time's rapid descent, the constant fall toward The End? In situations of gentle inebriation we understandably suppose that we can move through time as we do through space and that we can then dance on a higher plane, twirling the very constituion of history. In the mind's eye such adventures are powerfully palpable because of the resemblance travel through time bears to the deeply familiar tools of memory and promise, yet I shall strive to avoid that fruitless detour. Rather than foolishly dwelling on the outright manipulation of time I aim to unveil the secret's of time's dilation, a phenomenon that certainly merits the most rigorous analysis.
+
+Climacus goes on unpack the phenomenon of time's occasional stuttering. The disruption, while inhabiting time in whatever way we do, in which a particular moment arrests subjective attention with a climactic force. The symptoms have been well documented in literature and cinema. A sharp division is formed between the importance of the moment and the muted layer of routine from which it arose. There is the sense that time has "stopped". He writes:
+
+>A sudden fragment of vital life bleeds through the dusty and worn garments of the canonical day. In some circles this moment is considered affluent. It has been celebrated as inspiration or revelation and exalted above "ordinary" modes of perception, and who can deny the allure of a moment's meteroic impact? It matters not what the moment portends, it is so pregnant with meaning we need only hesitat in its vicinity in order to imbibe a breeze of transcendence. Yet this exceptional moment is simultaneously utterly fungible. The moment is congealed and self contained, and as such it can be successfully captured in raw datum. Its possibilities are foreclosed, it is too late for the moment to be anything other than what it is and too soon for it to become anything else. It is nothing but an empirical state. 
+
+The moment takes on a duality, on the one hand it is an evanescent bloom, on the other, a reified closure. I'm reminded of [Buridan's ass](http://en.wikipedia.org/wiki/Buridan's_ass) and the characteristic of [metastability](http://en.wikipedia.org/wiki/Metastability_in_electronics) in digital systems. What seems to happen is that this slice of time actually falls out of time's stream entirely. It cannot be resolved into a positive entity. The moment does not really happen at all, it is truly instantaneous, it ends concurrently with its beginning. 
+
+The Greeks knew this paradox well. In Zeno's paradox, which can be interactively introduced in [Let's Play Ancient Greek Punishment](http://www.pippinbarr.com/games/letsplayancientgreekpunishment/LetsPlayAncientGreekPunishment.html), motion is infinitely subdivided into an infinite series of sub-movement's that asymptotically approach a finite distance without ever arriving. An atomized "instance" of space has been wrought from space's natural continuity. This reduction continues ad infinitum until we are left with spans of space so minuscule they can be effectively accounted for as having no mass at all.
+
+It is Plato that decisively articulates (or rather, it is Plato's Parmenides that does the enunciation) this paradox in the *Parmenides*, apropos of the difference between motion and rest:
+
+>For the moment seems to imply a something out of which change takes place into either of two states; for the change is not from the state of rest as such, nor from the state of motion as such; but there is this curious nature which we call the moment lying between rest and motion, not being in any time; and into this and out of this what is in motion changes into rest, and what is at rest into motion.
+
+-Plato (2012-05-12). Parmenides (p. 48). Kindle Edition. 
+
+That is, there is in between two states an effective statelessness. Zizek might refer to this as the "part of no-part", the element in a given symbolic order that exists as an expressed lack, a gap in a totality that actually lends that totality its consistency and structure. It is in the indirect light of an echo, an allusion, or exclusion that we glimpse the being of a phenomenon. That is, rather than naively asserting that a given form has an "essence", that there is a split between "being" and "appearance", the thesis of the efficacy of what is missing asserts that being as such is the split between appearance and itself. Pure being is properly nothing, it is a flicker that differentiates appearances. It would serve well to reiterate the words of Plato's Parmenides as they are sited in Zizek's *Less than Nothing*, which has a better translation of *Parmenides*:
+
+>The instant seems to signify something such that changing occurs from it to each of two states. For a thing doesn’t change from rest while rest continues, or from motion while motion continues. Rather, this queer creature, the instant, lurks between motion and rest— being in no time at all— and to it and from it the moving thing changes to resting and the resting thing changes to moving. (156d– e)
+
+(Plato, The Dialogues of Plato, Vol. 4, trans. B. Jowett, Oxford: Oxford University Press 1892.)
+
+-Zizek, Slavoj (2012-04-30). Less Than Nothing: Hegel and the Shadow of Dialectical Materialism (Kindle Locations 1504-1507). Norton. Kindle Edition. 
+
+This may be metaphysical fancy, unintelligible to any self-respecting servant of modern empiricism, but it does account for the state of the world as we find it we the light is just so. Such conditions have been well documented, as in the bowed glow of fall or the pale blue of pre-dawn. As Climacus writes:
+
+> What is the moment is is only the echo of the moment's vanishing and as such the present is an illusion, a mirage between past and future, and this is precisely why the moment's suspense is such fertile ground for our subjectivity. Neither manifested nor redacted, it is raw existential presence untethered to any actually existing thing.
