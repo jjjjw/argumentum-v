@@ -6,13 +6,13 @@
   "homepage": "",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "http://argumentum-v.jit.su"
   },
   "dependencies": {
     "http-server": "~0.5.1"
   },
   "scripts": {
-    "start": "node bin/server"
+    "start": "node server.js"
   },
   "engines": {
     "node": "0.8.x"
