@@ -2,11 +2,14 @@
   "author": "JJ Weber <jj.weber@gmail.com>",
   "name": "Argumentum-ad-Verecundiam",
   "description": "A philosophical blog",
+  "domains": [
+    "argumentum-v.net"
+    ],
   "subdomain": "argumentum-v",
   "homepage": "",
   "repository": {
     "type": "git",
-    "url": "http://argumentum-v.jit.su"
+    "url": "https://github.com/oncemoreification/argumentum-v.git"
   },
   "dependencies": {
     "http-server": "~0.5.1"
