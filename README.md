@@ -3,4 +3,4 @@ argumentum-v
 
 A blog
 
-http://argumentum-v.nodejitsu.com/
+http://argumentum-v.net/
