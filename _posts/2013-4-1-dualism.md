@@ -20,4 +20,4 @@ Yet while the identity function is deductive, the referent of an identification 
 
 "Identification, then, is an invisible skin that sheaths the named world. When that skin is wounded we know not what bleeds before our senses because it bears no relation to the skin. This leaves the mind/body divide as a matter for faith to settle. Whether a person vacates their body as soul or memory is arbitrary, their identity was merely a facade."
 
--Verbosium, Johannes. On Selfhood. Pychon Press, 1955. 202. Print.
+-Verbosium, Johannes. The Time Suit. Pychon Press, 1955. 202. Print.
