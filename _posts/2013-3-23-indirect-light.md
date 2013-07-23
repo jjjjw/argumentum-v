@@ -19,3 +19,5 @@ Regardless, the graph by Verbosium was a document of linked quotations, a spiral
 -[Polar Inertia](http://www.3141592653589793238462.com/), *Indirect Light*."
 
 The design choices of the author are not especially clear, and so the meaning of the study is left as an exercise for the reader.
+
+v-0.1.2

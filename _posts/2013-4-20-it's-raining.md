@@ -15,3 +15,5 @@ Recanati's take on the sentence "It's raining" is unique among his peers. The se
 -Recanati, François. "It's raining (somewhere)." Linguistics and Philosophy. 30 (2007): 129 (6). Print.
 
 What is amazing here is that without ever departing from the brilliantly simple, Recanati's argument arrives at a sublime metaphysical vista. Arising from an elementary unit of English is a "(somewhere)", an unspecified place that is a logically required stopgap. Hinted at is an openness, as though the rain refused to sign the contract that would bind it to a particular patch of Earth. My thesis then is that my fascination with Recanati's essay stems from its beautiful combination of the diminutive and contingent with the unbounded and untamed (somewhere).
+
+v-0.1.0
