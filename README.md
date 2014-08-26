@@ -1,4 +1,1 @@
-argumentum-v
-============
-
-http://argumentum-v.net/
+argumentum ad verecundiam
