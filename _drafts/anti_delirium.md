@@ -15,3 +15,5 @@ Abstract negation is "pure", universal negation, the assertion of a Void in esse
 The contradiction is easy to spot once the Deleuzian gambit is placed into perspective. Schizoanalysis is an attempt to achieve absolute freedom from tyranny, including the "wrath of judgement". That is, schizoanalysis seeks to carve out at a space that cannot be brought under a law, a species without a genus. Paradoxically, such a "postive negativity" is lawless by law, ergo, it is subject to judgement after all.
 
 Deleuze completely misses the true terror/freedom of modernity. It is not Kurtz in the jungle, it is not HST in Las Vegas. And this is because he misses the true horror, it is not the homogeneous fascist bloc. The true terror/freedom of modernity is the preclusion of the future, and the true horror is the utter immobility of death, the stasis of purity, whether 0, 1 or many.
+
+Addendum: This can also be thought of as the symmetrical failure of the Grand Narrative and the pomo pastiche. They are both implausible metafictions that obscure historical facts.
